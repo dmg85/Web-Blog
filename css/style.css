@@ -1,5 +1,6 @@
 body {
     color: green;
+    background-image: url(../img/19366.jpg);
     text-align: center;
     font-family: 'Poppins', sans-serif;
     background-color: whitesmoke;
@@ -18,4 +19,11 @@ ol, ul {
     display: table;
     margin: 0 auto;
     color: black;  
+}
+
+#Basics {
+    color: blueviolet;
+    padding: 1em;
+    text-align: center;
+    width: 90%;
 }
